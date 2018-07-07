@@ -1,0 +1,5 @@
+cn/newbanker/controller/Test1Controller.class
+cn/newbanker/ConsumerApplication.class
+cn/newbanker/config/DubboConsummerConfig.class
+cn/newbanker/service/impl/ConsumerServiceImpl.class
+cn/newbanker/service/IConsumerService.class

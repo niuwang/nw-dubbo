@@ -1,0 +1,3 @@
+cn/newbanker/ServerApplication.class
+cn/newbanker/config/DubboConfig.class
+cn/newbanker/service/DemoServiceImpl.class
